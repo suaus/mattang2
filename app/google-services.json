@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "286828359419",
+    "firebase_url": "https://mattang-28075.firebaseio.com",
+    "project_id": "mattang-28075",
+    "storage_bucket": "mattang-28075.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286828359419:android:32e574672241450167ca5e",
+        "android_client_info": {
+          "package_name": "nmdc.mattang2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286828359419-11hl5cj1fb80f2rrp9ad13mf69fi2vll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq-gryj7ZjZ0iUO-BjJyx7eW36ct-CGlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286828359419-11hl5cj1fb80f2rrp9ad13mf69fi2vll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
